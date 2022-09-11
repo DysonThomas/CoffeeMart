@@ -1,16 +1,12 @@
-# coffee_shop
+# 30 days Challenge 
+## Day 3  Coffe Shop
 
-A new Flutter project.
+For Learning Purpose 
 
-## Getting Started
+### Final Screenshot : 
+![flutter_01](https://user-images.githubusercontent.com/59734832/189525724-2efc84d3-28d8-4f25-982f-70c6dc7b9272.png)
+![flutter_02](https://user-images.githubusercontent.com/59734832/189525729-41c1a6a0-b282-4e9b-afe1-fb8b23e3867d.png)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Reference : 
+- [Mitch Koko](https://www.youtube.com/c/MitchKoko)
